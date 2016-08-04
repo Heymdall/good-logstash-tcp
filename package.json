@@ -1,10 +1,9 @@
 {
   "name": "good-logstash-tcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Logstash reporter for good",
   "main": "lib/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "peerDependencies": {
     "good": "^7.0.1"
   },
